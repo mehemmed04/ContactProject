@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\ACER\OneDrive\Masaüstü\ContactProject\ContactProject\Functions.h(93,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\OneDrive\Masaüstü\ContactProject\ContactProject\Functions.h(98,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\OneDrive\Masaüstü\ContactProject\ContactProject\Source.cpp(11,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ContactProject.vcxproj -> C:\Users\ACER\OneDrive\Masaüstü\ContactProject\x64\Debug\ContactProject.exe

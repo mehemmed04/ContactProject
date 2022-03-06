@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\e.camalzade\source\repos\ContactProject\ContactProject\Functions.h(14,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\e.camalzade\source\repos\ContactProject\ContactProject\Functions.h(38,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\e.camalzade\source\repos\ContactProject\ContactProject\Functions.h(55,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\e.camalzade\source\repos\ContactProject\ContactProject\Source.cpp(11,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ContactProject.vcxproj -> C:\Users\e.camalzade\source\repos\ContactProject\Debug\ContactProject.exe
